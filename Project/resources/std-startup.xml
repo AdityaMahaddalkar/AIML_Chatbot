@@ -1,0 +1,9 @@
+<aiml version="1.0.1" encoding="UTF-8">
+	<!-- std-startup.xm; -->
+	<category>
+		<pattern>LOAD AIML</pattern>
+		<template>
+			<learn>QnA_file.aiml</learn>
+		</template>
+	</category>
+</aiml>
